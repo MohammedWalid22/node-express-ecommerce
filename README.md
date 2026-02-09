@@ -85,7 +85,7 @@ If you found this project useful, don't forget to **star** the repo!
 
 📌 **Clone the repository**  
 bash
-git clone https://github.com/YOUR_USERNAME/ecommerce-platform.git
+git clone https://github.com/MohammedWalid22/ecommerce-platform.git
 cd ecommerce-platform/backend```
 
 📌 Install Dependencies
@@ -106,4 +106,5 @@ npm run dev
 
 # Production mode
 npm start
+
 
