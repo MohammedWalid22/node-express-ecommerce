@@ -45,32 +45,6 @@ This project serves as the core engine for an online store, managing users, prod
 
 ---
 
-## ⚙️ Installation & Setup
-
-📌 **Clone the repository**  
-```bash
-git clone https://github.com/YOUR_USERNAME/ecommerce-platform.git
-cd ecommerce-platform/backend
-
-📌 Install Dependencies
-
-npm install
-📌 Configure Environment
-
-Create a .env file in the backend folder and add your credentials:
-
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_super_secret_key
-STRIPE_SECRET_KEY=your_stripe_test_key
-📌 Run the Server
-
-# Development mode (with Nodemon)
-npm run dev
-
-# Production mode
-npm start
-
 ## 🔌 Key API Endpoints
 
 POST `/api/auth/register` → Register new user (Public)  
@@ -105,3 +79,28 @@ GitHub: [https://github.com/MohammedWalid22](https://github.com/MohammedWalid22)
 
 If you found this project useful, don't forget to **star** the repo!
 
+## ⚙️ Installation & Setup
+
+📌 **Clone the repository**  
+bash
+git clone https://github.com/YOUR_USERNAME/ecommerce-platform.git
+cd ecommerce-platform/backend```
+
+📌 Install Dependencies
+
+npm install
+📌 Configure Environment
+
+Create a .env file in the backend folder and add your credentials:
+
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_super_secret_key
+STRIPE_SECRET_KEY=your_stripe_test_key
+📌 Run the Server
+
+# Development mode (with Nodemon)
+npm run dev
+
+# Production mode
+npm start
