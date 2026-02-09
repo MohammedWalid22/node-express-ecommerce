@@ -1,0 +1,17 @@
+[
+  { "_id": { "$oid": "651000000000000000000006" }, "title": "Laptop", "price": 1200, "stock": 10, "description": "High-end gaming laptop", "image": "" },
+  { "_id": { "$oid": "651000000000000000000007" }, "title": "Headphones", "price": 100, "stock": 50, "description": "Noise-cancelling headphones", "image": "" },
+  { "_id": { "$oid": "651000000000000000000008" }, "title": "Smartphone", "price": 800, "stock": 20, "description": "Latest model smartphone", "image": "" },
+  { "_id": { "$oid": "651000000000000000000009" }, "title": "Smartwatch", "price": 200, "stock": 30, "description": "Waterproof smartwatch", "image": "" },
+  { "_id": { "$oid": "651000000000000000000010" }, "title": "Keyboard", "price": 50, "stock": 40, "description": "Mechanical keyboard", "image": "" },
+  { "_id": { "$oid": "651000000000000000000011" }, "title": "Mouse", "price": 30, "stock": 60, "description": "Wireless mouse", "image": "" },
+  { "_id": { "$oid": "651000000000000000000012" }, "title": "Monitor", "price": 300, "stock": 15, "description": "4K monitor", "image": "" },
+  { "_id": { "$oid": "651000000000000000000013" }, "title": "Tablet", "price": 400, "stock": 25, "description": "10 inch tablet", "image": "" },
+  { "_id": { "$oid": "651000000000000000000014" }, "title": "Camera", "price": 700, "stock": 10, "description": "DSLR camera", "image": "" },
+  { "_id": { "$oid": "651000000000000000000015" }, "title": "Printer", "price": 150, "stock": 12, "description": "Laser printer", "image": "" },
+  { "_id": { "$oid": "651000000000000000000016" }, "title": "Router", "price": 80, "stock": 20, "description": "WiFi 6 router", "image": "" },
+  { "_id": { "$oid": "651000000000000000000017" }, "title": "External HDD", "price": 120, "stock": 30, "description": "1TB external hard drive", "image": "" },
+  { "_id": { "$oid": "651000000000000000000018" }, "title": "SSD", "price": 200, "stock": 25, "description": "512GB SSD", "image": "" },
+  { "_id": { "$oid": "651000000000000000000019" }, "title": "Gaming Chair", "price": 250, "stock": 15, "description": "Ergonomic gaming chair", "image": "" },
+  { "_id": { "$oid": "651000000000000000000020" }, "title": "Desk Lamp", "price": 40, "stock": 50, "description": "LED desk lamp", "image": "" }
+]
