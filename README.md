@@ -79,6 +79,8 @@ GitHub: [https://github.com/MohammedWalid22](https://github.com/MohammedWalid22)
 
 If you found this project useful, don't forget to **star** the repo!
 
+---
+
 ## ⚙️ Installation & Setup
 
 📌 **Clone the repository**  
@@ -104,3 +106,4 @@ npm run dev
 
 # Production mode
 npm start
+
