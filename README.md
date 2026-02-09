@@ -4,6 +4,12 @@
 A robust and scalable E-Commerce Backend API built with **Node.js, Express, and MongoDB**.
 This project serves as the core engine for an online store, managing users, products, dynamic shopping carts, order processing, and secure payments via Stripe.
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-5469D4?style=flat&logo=stripe&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
 ---
 
 ## 🚀 Features
@@ -43,13 +49,8 @@ ecommerce-platform/
 │   ├── .env                    # Environment variables (Hidden)
 │   └── package.json            # Dependencies & Scripts
 └── frontend/                   # (Coming Soon: React + Vite)
-
-----
-
-
-## ⚙️ Installation & SetupFollow these steps to set up the project locally.
-1. Clone the repositoryBashgit clone [https://github.com/YOUR_USERNAME/ecommerce-platform.git](https://github.com/YOUR_USERNAME/ecommerce-platform.git)
-cd ecommerce-platform/backend
+⚙️ Installation & SetupFollow these steps to set up the project locally.1. Clone the repositoryBashgit clone [https://github.com/MohammedWalid22/node-express-ecommerce.git](https://github.com/MohammedWalid22/node-express-ecommerce.git)
+cd node-express-ecommerce/backend
 2. Install DependenciesBashnpm install
 3. Configure EnvironmentCreate a .env file in the backend folder and add your credentials:Code snippetPORT=5000
 MONGO_URI=your_mongodb_connection_string
@@ -60,28 +61,4 @@ npm run dev
 
 # Production mode
 npm start
-
-## 🔌 Key API EndpointsMethodEndpointDescriptionAccess
-POST/api/auth/registerRegister new userPublic
-POST/api/auth/loginLogin userPublicGET/api/productsGet all productsPublic
-POST/api/cartAdd item to cartUserPOST/api/ordersCreate orderUser
-POST/api/payment/intentsInitialize Stripe paymentUser
-
-## 🔮 Future Improvements:
--Frontend Development (React + Vite).
--Stripe Webhooks Implementation.
--Image Upload using Cloudinary.
--Email Notifications for Orders.
-
-## 👨‍💻 Author
-Mohammed Walid
-Backend Developer (Node.js)
-LinkedIn: https://github.com/MohammedWalid22
-GitHub: www.linkedin.com/in/mohammed-waleed-2033872a7
-
----
-
-## ⭐️ Don't forget to star the repo if you found it useful!
-
-
-
+🔌 Key API EndpointsMethodEndpointDescriptionAccessPOST/api/auth/registerRegister new userPublicPOST/api/auth/loginLogin userPublicGET/api/productsGet all productsPublicPOST/api/cartAdd item to cartUserPOST/api/ordersCreate orderUserPOST/api/payment/intentsInitialize Stripe paymentUser🔮 Future Improvements[ ] Frontend Development (React + Vite).[ ] Stripe Webhooks Implementation.[ ] Image Upload using Cloudinary.[ ] Email Notifications for Orders.👨‍💻 AuthorMohammed WalidBackend Developer (Node.js)GitHub: MohammedWalid22LinkedIn: Mohammed Waleed⭐️ SupportIf you found this project useful, please consider giving it a Star on GitHub!
