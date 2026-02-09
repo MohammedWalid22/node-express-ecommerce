@@ -47,7 +47,7 @@ ecommerce-platform/
 ----
 
 
-##⚙️ Installation & SetupFollow these steps to set up the project locally.
+## ⚙️ Installation & SetupFollow these steps to set up the project locally.
 1. Clone the repositoryBashgit clone [https://github.com/YOUR_USERNAME/ecommerce-platform.git](https://github.com/YOUR_USERNAME/ecommerce-platform.git)
 cd ecommerce-platform/backend
 2. Install DependenciesBashnpm install
@@ -61,19 +61,19 @@ npm run dev
 # Production mode
 npm start
 
-##🔌 Key API EndpointsMethodEndpointDescriptionAccess
+## 🔌 Key API EndpointsMethodEndpointDescriptionAccess
 POST/api/auth/registerRegister new userPublic
 POST/api/auth/loginLogin userPublicGET/api/productsGet all productsPublic
 POST/api/cartAdd item to cartUserPOST/api/ordersCreate orderUser
 POST/api/payment/intentsInitialize Stripe paymentUser
 
-##🔮 Future Improvements:
+## 🔮 Future Improvements:
 -Frontend Development (React + Vite).
 -Stripe Webhooks Implementation.
 -Image Upload using Cloudinary.
 -Email Notifications for Orders.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Mohammed Walid
 Backend Developer (Node.js)
 LinkedIn: https://github.com/MohammedWalid22
@@ -81,6 +81,7 @@ GitHub: www.linkedin.com/in/mohammed-waleed-2033872a7
 
 ---
 
-##⭐️ Don't forget to star the repo if you found it useful!
+## ⭐️ Don't forget to star the repo if you found it useful!
+
 
 
